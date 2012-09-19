@@ -1,0 +1,6 @@
+The code is released under the GNU General Public License.
+Developed by Thomas Jespersen @ TKJ Electronics
+
+Demonstration on how to use a 50 pixel WS2801 LED String to make a 7x7 RGB LED Matrix - with Plasma effect and Snake game
+
+Please check out the following Youtube video to see the code in action: http://www.youtube.com/watch?v=-pv5Gz7m37s
